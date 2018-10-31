@@ -818,7 +818,7 @@ class RealDeviceMap_UIControlUITests: XCTestCase {
             logoutButton = normalized.withOffset(CGVector(dx: 500, dy: 575))
             logoutConfirmButton = normalized.withOffset(CGVector(dx: 375, dy: 725))
             
-            compareStart = (375, 800)
+            compareStart = (375, 770)
             compareStartLoggedOut = (0, 0)
             compareWeather = (375, 916)
             comparePassenger = (275, 950)
